@@ -1,0 +1,6 @@
+flask
+requests
+numpy
+firebase-admin
+functions-framework
+google-auth

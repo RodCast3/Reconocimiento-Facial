@@ -1,0 +1,7 @@
+functions-framework==3.*
+requests
+flask
+firebase-admin
+numpy
+pytz
+google-auth

@@ -1,0 +1,6 @@
+flask
+opencv-python-headless
+mtcnn
+numpy
+tensorflow
+keras
